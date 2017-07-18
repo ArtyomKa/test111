@@ -3,3 +3,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
  Donec vehicula non sem ut efficitur. Morbi pharetra metus in
   augue viverra scelerisque. Aenean eu erat risus. Quisque vestibulum risus eu fringilla commodo. 
   Praesent rhoncus et ipsum at ultricies. Nunc nec ultrices sem. Pellentesque commodo posuere.
+
+  Some other feature changes
